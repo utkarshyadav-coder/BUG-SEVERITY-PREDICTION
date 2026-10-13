@@ -1,0 +1,5 @@
+{
+  "name": "BugSight AI — BUG SEVERITY PREDICTION AND RECOMMENDATION SYSTEM",
+  "description": "An intelligent bug tracking dashboard using Random Forest ML for severity prediction and Claude LLM for fix recommendations.",
+  "requestFramePermissions": []
+}
